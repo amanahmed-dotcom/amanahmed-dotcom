@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="./assets/linkedin-banner.png" alt="Aman Ahmed - Cybersecurity Banner" width="100%" />
+<img src="./asset/linkdin-banner.png" alt="Aman Ahmed Cybersecurity Banner" width="100%" />
 
 <br><br>
 
